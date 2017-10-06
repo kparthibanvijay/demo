@@ -1,1 +1,5 @@
+<<<<<<< .mine
 test dee dfdf dfsdf
+=======
+test dfsd fsdf
+>>>>>>> .theirs
